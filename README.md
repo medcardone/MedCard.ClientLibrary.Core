@@ -1,1 +1,1 @@
-# medcard_client_library
+# MedCard.ClientLibrary.Core
